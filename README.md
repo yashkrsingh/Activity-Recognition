@@ -12,9 +12,9 @@ an *Android App* which was studied and then used to design a heuristic which cou
 Technologies Used
 -----------------
 
-* An Android application which uses cellphone's tri axis accelerometer and records sensor data
-* R was used for studying data patterns as well as for designing the program to recognize activities
-* A Java based web server was created to send the captured data from the app directly to the processing side. 
+* An **Android** application which uses cellphone's tri axis accelerometer and records sensor data
+* **R** was used for studying data patterns as well as for designing the program to recognize activities
+* A **Java** based web server was created to send the captured data from the app directly to the processing side. 
 
 References
 ----------------
