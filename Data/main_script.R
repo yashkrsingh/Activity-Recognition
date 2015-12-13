@@ -21,7 +21,7 @@
     return (gr)
   }
   
-  file <- read.csv("/home/yash/Activity-Recognition/Server/test.csv", header = FALSE, sep = '\t')
+  file <- read.csv("~/Activity-Recognition/Server/test.csv", header = FALSE, sep = '\t')
   file <- formatData(file)
   graph <- createGraph(file)
 

@@ -43,7 +43,7 @@ range <- function(file){
   arr
 }
 
-source("Data/datascript_standingsamples.R")
-source("Data/datascript_sittingsamples.R")
-source("Data/datascript_walkingsamples.R")
-source("Data/datascript_joggingsamples.R")
+source("~/Activity-Recognition/Data/datascript_standingsamples.R")
+source("~/Activity-Recognition/Data/datascript_sittingsamples.R")
+source("~/Activity-Recognition/Data/datascript_walkingsamples.R")
+source("~/Activity-Recognition/Data/datascript_joggingsamples.R")
