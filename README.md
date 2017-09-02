@@ -1,4 +1,4 @@
-#Sensor Data Mining and Activity Recognition Using Cellphone Accelerometer
+# Sensor Data Mining and Activity Recognition Using Cellphone Accelerometer
 
 Project Description
 -------------------
